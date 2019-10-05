@@ -1,0 +1,7 @@
+C:\Users\windws10\Desktop\TOPICOS 2\patronComposite\patronComposite\obj\Debug\patronComposite.csprojResolveAssemblyReference.cache
+C:\Users\windws10\Desktop\TOPICOS 2\patronComposite\patronComposite\obj\Debug\patronComposite.csproj.CoreCompileInputs.cache
+C:\Users\windws10\Desktop\TOPICOS 2\patronComposite\patronComposite\bin\Debug\patronComposite.exe.config
+C:\Users\windws10\Desktop\TOPICOS 2\patronComposite\patronComposite\bin\Debug\patronComposite.exe
+C:\Users\windws10\Desktop\TOPICOS 2\patronComposite\patronComposite\bin\Debug\patronComposite.pdb
+C:\Users\windws10\Desktop\TOPICOS 2\patronComposite\patronComposite\obj\Debug\patronComposite.exe
+C:\Users\windws10\Desktop\TOPICOS 2\patronComposite\patronComposite\obj\Debug\patronComposite.pdb

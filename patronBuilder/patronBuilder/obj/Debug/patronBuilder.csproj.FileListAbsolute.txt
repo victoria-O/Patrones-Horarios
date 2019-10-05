@@ -1,0 +1,7 @@
+C:\Users\windws10\Desktop\TOPICOS 2\patronBuilder\patronBuilder\bin\Debug\patronBuilder.exe.config
+C:\Users\windws10\Desktop\TOPICOS 2\patronBuilder\patronBuilder\bin\Debug\patronBuilder.exe
+C:\Users\windws10\Desktop\TOPICOS 2\patronBuilder\patronBuilder\bin\Debug\patronBuilder.pdb
+C:\Users\windws10\Desktop\TOPICOS 2\patronBuilder\patronBuilder\obj\Debug\patronBuilder.csprojResolveAssemblyReference.cache
+C:\Users\windws10\Desktop\TOPICOS 2\patronBuilder\patronBuilder\obj\Debug\patronBuilder.csproj.CoreCompileInputs.cache
+C:\Users\windws10\Desktop\TOPICOS 2\patronBuilder\patronBuilder\obj\Debug\patronBuilder.exe
+C:\Users\windws10\Desktop\TOPICOS 2\patronBuilder\patronBuilder\obj\Debug\patronBuilder.pdb

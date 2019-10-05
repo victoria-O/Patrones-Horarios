@@ -1,0 +1,7 @@
+C:\Users\windws10\Desktop\TOPICOS 2\patronBridge\patronBridge\bin\Debug\patronBridge.exe.config
+C:\Users\windws10\Desktop\TOPICOS 2\patronBridge\patronBridge\bin\Debug\patronBridge.exe
+C:\Users\windws10\Desktop\TOPICOS 2\patronBridge\patronBridge\bin\Debug\patronBridge.pdb
+C:\Users\windws10\Desktop\TOPICOS 2\patronBridge\patronBridge\obj\Debug\patronBridge.csprojResolveAssemblyReference.cache
+C:\Users\windws10\Desktop\TOPICOS 2\patronBridge\patronBridge\obj\Debug\patronBridge.csproj.CoreCompileInputs.cache
+C:\Users\windws10\Desktop\TOPICOS 2\patronBridge\patronBridge\obj\Debug\patronBridge.exe
+C:\Users\windws10\Desktop\TOPICOS 2\patronBridge\patronBridge\obj\Debug\patronBridge.pdb

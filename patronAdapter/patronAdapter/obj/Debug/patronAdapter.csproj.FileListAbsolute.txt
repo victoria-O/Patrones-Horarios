@@ -1,0 +1,7 @@
+C:\Users\windws10\Desktop\TOPICOS 2\patronAdapter\patronAdapter\bin\Debug\patronAdapter.exe.config
+C:\Users\windws10\Desktop\TOPICOS 2\patronAdapter\patronAdapter\bin\Debug\patronAdapter.exe
+C:\Users\windws10\Desktop\TOPICOS 2\patronAdapter\patronAdapter\bin\Debug\patronAdapter.pdb
+C:\Users\windws10\Desktop\TOPICOS 2\patronAdapter\patronAdapter\obj\Debug\patronAdapter.csprojResolveAssemblyReference.cache
+C:\Users\windws10\Desktop\TOPICOS 2\patronAdapter\patronAdapter\obj\Debug\patronAdapter.csproj.CoreCompileInputs.cache
+C:\Users\windws10\Desktop\TOPICOS 2\patronAdapter\patronAdapter\obj\Debug\patronAdapter.exe
+C:\Users\windws10\Desktop\TOPICOS 2\patronAdapter\patronAdapter\obj\Debug\patronAdapter.pdb
